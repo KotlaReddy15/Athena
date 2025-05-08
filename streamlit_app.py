@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-st.title("Job Description Generator with Gemini")
+st.title("Job Description ")
 
 # Input fields
 job_title = st.text_input("Job Title")
